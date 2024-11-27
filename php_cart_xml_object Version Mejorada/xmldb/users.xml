@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<users>
+    <user>
+        <username>Ayoub</username>
+        <password>1234</password>
+    </user>
+    <user>
+        <username>Noel</username>
+        <password>SalsaPicante</password>
+    </user>
+</users>
