@@ -10,7 +10,7 @@
     
     //$user->register("Noel","SalsaPicante");
     //$user->login("Ayoub","1234");
-    $user->login("Usuario2","1234");
+    $user->login("Rama4","1234");
     
     $nombre=$user->getUser();
 
