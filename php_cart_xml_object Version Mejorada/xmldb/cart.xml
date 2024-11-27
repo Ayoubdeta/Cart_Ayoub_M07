@@ -3,7 +3,7 @@
     <product_item name_product="Mandarina">
         <quantity>2</quantity>
         <price_item>
-            <price>4.25</price>
+            <price>5.2</price>
             <currency>EUR</currency>
         </price_item>
     </product_item>
