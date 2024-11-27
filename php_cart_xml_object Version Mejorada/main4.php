@@ -9,7 +9,7 @@
     //$cart = new clsCart();
     
     //$user->register("Noel","SalsaPicante");
-    $user->login("Ayoub","1234");
+    $user->login("Aure","ModoBiblioteca");
     
     $nombre=$user->getUser();
 
